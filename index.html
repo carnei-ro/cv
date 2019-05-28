@@ -10,24 +10,21 @@
 </head>
 <body>
   <div class="container">
-    <div class="row pt-2">
+    <div class="row">
       <div class="col-md">
         <div class="d-flex justify-content-center">
           <address class="">
             <strong>Endereço:</strong><br/>
-     <!--       R. Prof. Nelson A. Figueiredo Brito, 101<br/>
-            Torres de São José - 13214-530<br/> -->
-            Jundiaí / SP / Brasil<br/>
+            Jundiaí / SP<br/>
           </address>
-        </div> 
+        </div>
       </div>
       <div class="col-md">
         <div class="d-flex justify-content-center">
           <address>
             <strong>Contato:</strong><br/>
             <strong>E-mail:</strong> carneiro.leandro@outlook.com<br/>
-            <strong>Celular:</strong> +55 11 97244-5778<br/>
-         <!--   <strong>Telefone:</strong> +55 11 4582-1722<br/> -->
+            <strong>Celular:</strong> (11) 97244-5778<br/>
           </address>
         </div>
       </div>
@@ -35,15 +32,8 @@
 
     <div class="h3 text-uppercase font-weight-bold pt-3">Leandro Souza Carneiro</div>
     <hr/>
-    <p>
-        Analista de Infraestrutura, com bons conhecimentos em Cloud Computing, DevOps, GNU / Linux e servidores de aplicação Java. Trabalhando em empresa especializada em Cloud e suporte a estes ambientes.
-    </p>
-    <p><strong>Objetivo:</strong> DevOps / Infraestrutura em TI / Cloud</p>
-    <ul class="list-unstyled d-none">
-        <li><strong>Pretenção Salarial:</strong>
-        <li><strong>CLT: </strong>R$</li>
-        <li><strong>PJ: </strong>A Combinar</li>
-      </ul>
+    <p>Senior SysAdmin / SRE em iFood. Conhecimentos em Cloud Computing, API Gateway, cultura DevOps e sistemas GNU/Linux.</p>
+    <p><strong>Objetivo:</strong> Atuar na área de Infraestrutura / SRE / DevOps</p>
     <hr />
     <div class="h5 font-weight-bold pb-2">Formação Acadêmica:</div>
     <div class="row">
@@ -61,19 +51,6 @@
           <li><strong>Grau: </strong>Técnico</li>
           <li><strong>Conclusão: </strong>Dez/2007</li>
           <li><strong>Instituição: </strong>Colégio Divino Salvador</li>
-        </ul>
-      </div>
-    </div>
-
-    <hr />
-    <div class="h5 font-weight-bold pb-2">Especialização:</div>
-    <div class="row">
-      <div class="col-md">
-        <ul class="list-unstyled">
-          <li><strong>Curso: </strong>Formação Linux</li>
-          <li><strong>Duração: </strong>120 horas</li>
-          <li><strong>Conclusão: </strong>Nov/2015</li>
-          <li><strong>Instituição: </strong>4Linux</li>
         </ul>
       </div>
     </div>
@@ -103,8 +80,15 @@
     <div class="row">
       <div class="container pb-1">
         <ul class="list-unstyled">
+          <li><strong>iFood</strong></li>
+          <li>out/2018 até o presente momento</li>
+          <li>SRE - Sr SysAdmin</li>
+        </ul>
+      </div>
+      <div class="container pb-1">
+        <ul class="list-unstyled">
           <li><strong>ADTsys Software</strong></li>
-          <li>mar/2018 até o presente momento</li>
+          <li>mar/2018 até set/18</li>
           <li>Analista de Infraestrutura em TI Sr. II</li>
         </ul>
       </div>
@@ -118,6 +102,21 @@
     </div>
     
     <hr />
+    <div class="h5 font-weight-bold pb-2 pagebreak">Projetos no iFood:</div>
+    <div class="row">
+      <div class="col-md">
+        <ul>
+          <li class="pb-1 text-justify">Gerenciamento e evolução da solução de API Gateway do iFood, baseada em Kong.</li>
+          <li class="pb-1 text-justify">Implementação de monitoramento (Prometheus) com métricas por serviços, rotas e HTTP Codes de todos os API Gateways.</li></li>
+          <li class="pb-1 text-justify">Desenvolvimento de plugins para o API Gateway a fim de lidar com autenticação, autorização e roteamentos.</li>
+          <li class="pb-1 text-justify">Tratativa de logs de ELBs e API Gateway com solução baseada em ELK.</li>
+          <li class="pb-1 text-justify">Desenvolvimento de cookbook em Chef para melhorar a automação da configuração do serviço de API Gateway.</li>
+          <li class="pb-1 text-justify">Implementação e sustentação da infraestrutura do iFood.</li>
+        </ul>
+      </div>
+    </div>
+
+    <hr />
     <div class="h5 font-weight-bold pb-2 pagebreak">Projetos na ADTsys:</div>
     <div class="row">
       <div class="col-md">
@@ -126,7 +125,7 @@
               Desenvolvimento de métodos em Groovy para servir em pipelines do Jenkins a fim de automatizar processos de um projeto que não tem APIs.
           </li>
           <li class="pb-1 text-justify">Desenvolvimento de ferramenta Python, para ofertar instancias Spot na AWS e registrá-las nas <i>Stacks/Layers</i> do OpsWorks.
-            Quando o CloudWatch detecta uma sobrecarga de instância, com base no limite personalizado, é acionado um webhook exposto no Jenkins, que pode receber, além do valor da oferta para o lance, parâmetros como "layerId", "stackID", tamanho da instância e muito mais.
+            Quando o CloudWatch detecta uma sobrecarga na instância, com base no limite personalizado, é acionado um webhook exposto pelo Jenkins, que pode receber, além do valor da oferta para o lance, parâmetros como "layerId", "stackID", tamanho da instância e muito mais.
             No final do ciclo de vida da instância, uma função Lambda é acionada para remover a instância do OpsWorks. Ferramenta usada como parte da integração para ambiente de infraestrutura efêmera.
           </li>
           <li class="pb-1 text-justify">Criação e gerenciamento de receitas 'Chef' para configuração de máquinas via OpsWorks.</li>
@@ -163,19 +162,13 @@
       <div class="col-md">
         <ul class="list-unstyled">
           <li><strong>Sistemas Operacionais:</strong> Linux (preferencialmente Red Hat-ish), Windows</li>
-          <li><strong>Cloud:</strong> AWS, Azure, GCP</li>
-          <li><strong>Linguagens:</strong> Shell Script, Python, Groovy, Java Script, TypeScript (Angular 2+), CSS (Bootstrap), HTML5</li>
-          <li><strong>Containerização:</strong> Docker e Swarm / Kubernets</li>
+          <li><strong>Cloud:</strong> AWS, GCP, Azure</li>
+          <li><strong>Containerização:</strong>Kubernets, Docker e Swarm </li>
           <li><strong>Virtualização:</strong> KVM, VirtualBox</li>
+          <li><strong>Linguagens:</strong> Lua, Ruby, Python, Groovy, Shell Script</li>
           <li><strong>Automação:</strong> Jenkins, Vagrant, Terraform</li>
           <li><strong>Gerenciadores de Configuração:</strong> Puppet, Chef, OpsWorks</li>
-          <li><strong>Servidores de Aplicação:</strong> WildFly / JBoss / Tomcat</li>
-          <li><strong>Web Servers / Load-Balancer / Proxies:</strong> Apache, Nginx, HA Proxy</li>
-          <li><strong>SGBDs:</strong> MySQL, SQLServer, Oracle, MongoDB</li>
-          <li><strong>Versionamento:</strong> Git</li>
-          <li><strong>EMails:</strong> PostFix, Dovecot, Zimbra</li>
-          <li><strong>Storages / File-Servers:</strong> FreeNAS, GlusterFS, Ceph</li>
-          <li><strong>Rede / Telefonia: </strong> IPTables, StrongSwan, PPTP, OpenWRT, FreeRADIUS, DNS, DHCP, Elastix, Asterisk, Issabel</li>
+          <li><strong>Web Servers / Load-Balancer / Proxies:</strong> Kong API Gateway, OpenResty, Nginx, HA Proxy, Apache</li>
         </ul>
       </div>
     </div>
@@ -186,4 +179,3 @@
   </div>
 </body>
 </html>
-
