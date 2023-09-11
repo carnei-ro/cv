@@ -42,6 +42,12 @@ I am looking for a company that solves people's life problems to work remotely i
   **Issued:** Sep/2019 <br/>
   **Valid Until:** Sep/2021
 
+
+- **Title:** Kong Champion <br/>
+  **Company:** Kong <br/>
+  **Issued:** Apr/2023 <br/>
+  **Valid Until:** N/A
+
 ## Languages
 
 - **Portuguese**: Native
