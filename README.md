@@ -64,13 +64,13 @@ Looking for a company that solves people's life problems to work remotely in SRE
   - Jul/2010 - Mar/2018
   - IT Infrastructure Analyst
 
-## Work Accomplishments at Namely
+### Work Accomplishments at Namely
 
 - Revamp the Infrastructure as Code using Terraform and Terragrunt to deploy the resources on AWS.
 - Implanting Atlantis to automate the Terragrunt changes. Using Atlantis also allowed the automation of Kubernetes changes made by Kapitan.dev
 - Observability project - Substitution of SignalFX agents by OpenTelemetry Collector to receive, process, and ship traces and metrics.
 
-## Work Accomplishments at iFood
+### Work Accomplishments at iFood
 
 - Research and Implanting the iFood Service Mesh. Based on Istio, using the "multi-primary on different networks" architecture, the mesh had more than eight Kubernetes Clusters connected and thousands of services. The use of Istio "Sidecar" objects to control the number of hosts the proxy would watch was necessary from the beginning (this is an advanced technique). The team I was part of was responsible for building the mesh from the ground and delivering, at least, the same functionalities iFood already had, such as Authentication (PeerAuthentication and RequestAuthentication), Authorization (AuthorizationPolicy), Canary (via VirtualService) and observability.
 - Creation of an Authentication and Authorization mechanism to be used between microservices and users calling microservices. It was based on the NGINX Ingress Controller, Lua, and JWTs. This project was before iFood Service Mesh, and it was fundamental to iFood internal APIs security, starting the "zero trust" culture for those APIs, also, avoiding internal DDoS caused by a bad functional application / script.
@@ -81,7 +81,7 @@ Looking for a company that solves people's life problems to work remotely in SRE
 - Research and implantation of HashiCorp Consul to be used as the "backbone" of the iFood "feature flag" system, also following all the best practices and infrastructure as code.
 - Participation in migrating almost all iFood resources from one AWS Region to another, using only "infrastructure as code". The process involved the creation of Terraform modules, understanding legacy infrastructure, and creating parse scripts for the automation of the task. During the day of the migration, I set up a Wi-Fi network with Bind9 with RPZ, allowing people to test everything before we change the DNS records.
 
-## Work Accomplishments at ADTsys
+### Work Accomplishments at ADTsys
 
 - Development of a Python tool to bid Spot Instances on AWS Cloud and register them in OpsWorks stack/layers based on CloudWatch alerts.
 - Creation and management of Chef 'recipes' for machine configuration via OpsWorks.
@@ -89,7 +89,7 @@ Looking for a company that solves people's life problems to work remotely in SRE
 - Translation of Ansible 'playbooks' to Puppet 'manifests' to equalize the environment.
 - Development of 'pipelines' at Jenkins for automation of application deployments in CI/CD environments.
 
-## Work Accomplishments at Programarte
+### Work Accomplishments at Programarte
 
 - Research, implementation, and documentation of WildFly cluster, containerized and orchestrated by docker swarm, geo-redundant and scalable. The project was developed from scratch for a high availability environment for product "simplesmenteUse - NEO" in AWS infrastructure or on-premises.
 - Email servers migration to Zimbra. Configuration of Zimbra itself, besides the DNS and firewall. The project has increased availability, stability, and log analysis.
