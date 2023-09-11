@@ -2,11 +2,11 @@
 
 ## Who am I
 
-A nerd who loves new tech. He started his career working with open-source software and now loves it. Always testing a new OSS solution and probably helping to improve it by opening "Pull Requests" to their code. Enjoys Cloud, Containers, Kubernetes, Proxies, and the community.
+A nerd who loves new tech. He started his career working with open-source software and now loves it. Constantly testing a new OSS solution and probably helping to improve it by opening "Pull Requests" to their code. Enjoys Cloud, Containers, Kubernetes, Proxies, and the community.
 
 ## Objective
 
-Looking for a company that solves people's life problems to work remotely in SRE / DevOps / Platform Engineer areas.
+I am looking for a company that solves people's life problems to work remotely in SRE / DevOps / Platform Engineer areas.
 
 ## Contact
 
@@ -17,29 +17,30 @@ Looking for a company that solves people's life problems to work remotely in SRE
 
 ## Academic Background
 
-- **Course:** Computer Engineering
-- **Degree:** Bacharel - B.S.
-- **Conclusion:** Dec/2012
-- **Institution:** Universidade São Francisco
+- **Course:** Computer Engineering <br/>
+  **Degree:** Bacharel - B.S. <br/>
+  **Conclusion:** Dec/2012 <br/>
+  **Institution:** Universidade São Francisco
 
-- **Course:** Computer Technician
-- **Degree:** Technical
-- **Conclusion:** Dec/2007
-- **Institution:** Colégio Divino Salvador
+
+- **Course:** Computer Technician <br/>
+  **Degree:** Technical <br/>
+  **Conclusion:** Dec/2007 <br/>
+  **Institution:** Colégio Divino Salvador
 
 ## Exchange Courses
 
-- **Course:** English for non-Americans
-- **Degree:** 1 month
-- **Conclusion:** Mar/2014
-- **Institution:** ELS Language School - Silicon Valley
+- **Course:** English for non-Americans <br/>
+  **Duration:** 1 month <br/>
+  **Conclusion:** Mar/2014 <br/>
+  **Institution:** ELS Language School - Silicon Valley
 
 ## Certifications
 
-- **Title:** Terraform Associate
-- **Company:** HashiCorp
-- **Issued:** Sep/2019
-- **Valid Until:** Sep/2021
+- **Title:** Terraform Associate <br/>
+  **Company:** HashiCorp <br/>
+  **Issued:** Sep/2019 <br/>
+  **Valid Until:** Sep/2021
 
 ## Languages
 
@@ -48,21 +49,10 @@ Looking for a company that solves people's life problems to work remotely in SRE
 
 ## Professional Background
 
-- **Namely**
-  - Mar/2023 - Present
-  - Senior Site Reliability Engineer
-
-- **iFood**
-  - Oct/2018 - Mar/2023
-  - Staff SRE
-
-- **ADTsys Software**
-  - Mar/2018 - Sep/2018
-  - Senior IT Infrastructure Analyst II
-
-- **Programarte Consultoria e Desenvolvimento de Softwares**
-  - Jul/2010 - Mar/2018
-  - IT Infrastructure Analyst
+- Senior Site Reliability Engineer @ **Namely** - From: Mar/2023 Until: Present
+- Staff SRE @ **iFood** - From: Oct/2018 Until: Mar/2023
+- Senior IT Infrastructure Analyst II @ **ADTsys Software** - From: Mar/2018 Until: Sep/2018
+- IT Infrastructure Analyst @ **Programarte (simplesmenteUse)** - From: Jul/2010 Until: Mar/2018
 
 ### Work Accomplishments at Namely
 
