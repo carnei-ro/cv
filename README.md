@@ -2,7 +2,7 @@
 
 ## Who am I
 
-A nerd who loves new tech. He started his career working with open-source software and now loves it. Constantly testing a new OSS solution and probably helping to improve it by opening "Pull Requests" to their code. Enjoys Cloud, Containers, Kubernetes, Proxies, and the community.
+I'm a nerd who loves new tech. I started my career working with open-source software, and now I love it. Constantly testing a new OSS solution and probably helping to improve it by opening "Pull Requests" to their code. Enjoys Cloud, Containers, Kubernetes, Proxies, and the community.
 
 ## Objective
 
@@ -21,7 +21,6 @@ I am looking for a company that solves people's life problems to work remotely i
   **Degree:** Bacharel - B.S. <br/>
   **Conclusion:** Dec/2012 <br/>
   **Institution:** Universidade São Francisco
-
 
 - **Course:** Computer Technician <br/>
   **Degree:** Technical <br/>
@@ -42,7 +41,6 @@ I am looking for a company that solves people's life problems to work remotely i
   **Issued:** Sep/2019 <br/>
   **Valid Until:** Sep/2021
 
-
 - **Title:** Kong Champion <br/>
   **Company:** Kong <br/>
   **Issued:** Apr/2023 <br/>
@@ -60,11 +58,11 @@ I am looking for a company that solves people's life problems to work remotely i
 - Senior IT Infrastructure Analyst II @ **ADTsys Software** - From: Mar/2018 Until: Sep/2018
 - IT Infrastructure Analyst @ **Programarte (simplesmenteUse)** - From: Jul/2010 Until: Mar/2018
 
-### Work Accomplishments at Namely
+### Work Accomplishments at Namely / PrismHR
 
-- Revamp the Infrastructure as Code using Terraform and Terragrunt to deploy the resources on AWS.
-- Implanting Atlantis to automate the Terragrunt changes. Using Atlantis also allowed the automation of Kubernetes changes made by Kapitan.dev
-- Observability project - Substitution of SignalFX agents by OpenTelemetry Collector to receive, process, and ship traces and metrics.
+- Revamp the Infrastructure as Code using Terraform/OpenTofu and Terragrunt to deploy the resources in AWS and Azure. The project was based on the "everything as code" concept, and it was a significant improvement in infrastructure management, helping also in SOC compliance.
+- Implanting Atlantis to automate the Terragrunt changes. Using Atlantis also allowed the automation of Kubernetes changes made by Kapitan.dev and Helm.
+- Observability project: Substitution of SignalFX agents by OpenTelemetry Collector to receive, process, and ship traces and metrics.
 
 ### Work Accomplishments at iFood
 
@@ -95,11 +93,11 @@ I am looking for a company that solves people's life problems to work remotely i
 ## Hard Skills
 
 - **Container Orchestration:** Kubernetes
-- **Cloud:** Mainly AWS. Azure and GCP per inference, helps if it is "as code".
+- **Cloud:** AWS and Azure. GCP per inference, helps if it is "as code".
 - **Languages:** Python, Lua, Golang, Shell, Groovy
-- **Automation:** Atlantis, GitHub Actions, GitLab CI/CD, Terraform, Terragrunt, Helm, Helmfile, Packer, Jenkins, Vagrant.
+- **Automation:** Atlantis, GitHub Actions, GitLab CI/CD, Terraform, OpenTofu, Terragrunt, Helm, Helmfile, Packer, Jenkins, Vagrant.
 - **Operational Systems:** Mainly Linux. It has been a long time since I heavily used Windows.
-- **Secrets Manager:** HashiCorp Vault
+- **Secrets Manager:** HashiCorp Vault, AWS Secrets Manager, Azure Key Vault
 - **Proxies:** Kong API Gateway, Istio, OpenResty, Nginx
 - **CDN / WAF:** Akamai, CloudFlare
 - **Virtualization:** QEMU KVM
@@ -126,6 +124,6 @@ I am looking for a company that solves people's life problems to work remotely i
 - OpenIPC/firmware
 - dyrkin/tasmota-exporter
 - kovetskiy/mark
-- variantdev/vals
+- helmfile/vals
 - helmfile/helmfile
 - asdf-vm/asdf-plugins
