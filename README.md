@@ -11,9 +11,7 @@ I am looking for a company that solves people's life problems to work remotely i
 ## Contact
 
 - **Address:** Jundiaí / SP / Brazil
-- **E-mail:** leandro@carnei.ro
 - **GitHub:** @carnei-ro
-- **LinkedIn:** https://www.linkedin.com/in/leandro-souza-carneiro-5762ba96
 
 ## Academic Background
 
